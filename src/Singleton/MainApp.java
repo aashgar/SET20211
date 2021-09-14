@@ -87,8 +87,7 @@ public class MainApp extends Application{
                 textField1.setText("");
                 textField2.setText("");
                 textArea.setText("");
-            }
-            
+            }            
         }        
     }    
 }
