@@ -1,0 +1,12 @@
+.root{
+    -fx-background-color: #00C0F0;
+    -fx-font-size: 12pt;
+    -fx-border-color: lightblue;
+    -fx-border-width: 2px;
+}
+
+.button{
+    -fx-background-color: #026096;
+    -fx-text-fill: white;
+    -fx-border-color: #00234A;
+}
